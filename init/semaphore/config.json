@@ -1,0 +1,15 @@
+{
+  "mysql": {
+    "host": "db:3306",
+    "user": "semaphore",
+    "pass": "semaphore",
+    "name": "semaphore"
+  },
+  "port": "",
+  "interface": "",
+  "tmp_path": "/tmp/semaphore",
+  "email_alert": false,
+  "telegram_alert": false,
+  "ldap_enable": false,
+  "ssh_config_path": "/home/semaphore/.ssh/config"
+}
